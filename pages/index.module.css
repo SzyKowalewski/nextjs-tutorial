@@ -1,0 +1,28 @@
+.Body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 70vw;
+    margin-left: 15vw;
+}
+
+.Banner {
+    flex: 0.1;
+    background-color: red;
+}
+
+.Main {
+    flex: 0.9;
+    display: flex;
+    background-color: blue;
+}
+
+.Left {
+    background-color: brown;
+    flex: .2;
+}
+
+.ItemList {
+    flex: .8;
+}
+

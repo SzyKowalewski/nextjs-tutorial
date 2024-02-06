@@ -1,0 +1,14 @@
+.ItemList {
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+}
+.Sort {
+    background-color: chocolate;
+    flex: .1;
+}
+
+.Items {
+    background-color: cyan;
+    flex: .9;
+}
